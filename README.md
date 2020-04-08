@@ -16,7 +16,7 @@ domains and a list of the URLs called, as well as their types (script, image, fo
 To continue working on the project or to get a copy, you must first clone the project:
 
 * Make sure you have Git installed 
-* Open the console in the desired folder and enter: git clone blabla
+* Open the console in the desired folder and enter: `git clone project-url`
 
 
 ### Requirements
@@ -29,10 +29,10 @@ To continue working on the project or to get a copy, you must first clone the pr
 ### Installation
 
 * Open Firefox 
-* In the search field enter about:debugging 
+* In the search field enter `about:debugging`
 * The page you have called up looks like this:
 ![bild](icons/bild1.png)
-* On the left side you navigate to "This Firefox 
+* On the left side you navigate to "This Firefox" 
 * Click Load Add-on 
 * Upload the manifest.json from the corresponding project 
 
