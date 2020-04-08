@@ -19,9 +19,7 @@ const Vizualizer = {
     },
 
     /**
-     * erstellt ein Listener um die vizualize Methode
-     * kann somit aus einem Callback aufgerufen
-     * bound-function? -> nochmal genauer nachlesen
+     * Creates a listener around the vizualize method can so be called from a callback.
      */
     getVizualizeListener() {
         return this.vizualize.bind(this);
