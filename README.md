@@ -11,7 +11,7 @@ The current state of the add-on shows the number of found third-party
 domains and a list of the URLs called, as well as their types (script, image, font, etc.).
 
 
-##Getting started 
+## Getting started 
 
 To continue working on the project or to get a copy, you must first clone the project:
 
@@ -19,14 +19,14 @@ To continue working on the project or to get a copy, you must first clone the pr
 * Open the console in the desired folder and enter: git clone blabla
 
 
-###Requirements
+### Requirements
 
 * Firefox version >= 74 
 * An editor with which you can work in JavaScript 
 
 
 
-###Installation
+### Installation
 
 * Open Firefox 
 * In the search field enter about:debugging 
